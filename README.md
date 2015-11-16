@@ -4,8 +4,8 @@
 - One model contain one scope (1 model -> 1 scope)
 
 #2 ng-controller="MainController" meaning
-- Call to a controller
-- Each controller will create a scope
+- Call to a controller that name "MainController"
+- Each controller will create a scope, in this case MainController will create a scope for itself
 
 
 
