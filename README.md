@@ -8,6 +8,8 @@
 - Create a new scope 
 - Each controller will create a scope, in this case MainController will create a scope for itself
 
+#3 Scope
+- $scope is just a plain JavaScript object.
 
 
 
